@@ -231,6 +231,7 @@ header {
 .article-featured-main {
     order:-1;
 }
+
 @media screen and (min-width:675px){
     .article-featured {
         flex-direction: row;
@@ -251,9 +252,11 @@ header {
     margin-bottom: 2em;
     
 }
+
 .article-img,.featured-img {
     margin-bottom: 1.5em;
 }
+
 
 @media screen and (min-width:675px) {
         .article-featured {
@@ -267,6 +270,7 @@ header {
         }
         .article-recent-main {
             flex:0 1 50%;
+            margin:1em;
         }
         .article-recent-secondary {
             flex:0 1 30%;

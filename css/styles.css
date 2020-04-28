@@ -102,6 +102,8 @@ aside h1, aside h2, aside h3 {
     
     color:#717171;
     font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .5px;
 }
 nav a:hover,a:focus {
     color:#1792d2;
@@ -358,5 +360,5 @@ header {
     margin-top:2em;
 }
 .p-bottom {
-    padding-bottom: 2em;
+    padding-bottom: 2em;;
 }

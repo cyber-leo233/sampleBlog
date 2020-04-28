@@ -338,7 +338,7 @@ header {
 /*media queries */
 @media (max-width:400px) {
         .container {
-            border:10px solid #7ebdb4;
+            border: 20px solid #7ebdb4;
     }
 }
 

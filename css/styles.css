@@ -38,6 +38,11 @@ img {
     object-fit: cover;
     
 }
+@media screen and (max-width:400px) {
+    .about-top-img {
+        height:100px;
+    }
+}
 
 /* ========================================
 =================  typography============== */
@@ -352,4 +357,6 @@ header {
 .m-top {
     margin-top:2em;
 }
-
+.p-bottom {
+    padding-bottom: 2em;;
+}
